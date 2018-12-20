@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Manager Winforms", "File Manager Winforms\File Manager Winforms.csproj", "{C3936708-F1CE-4CA9-87EC-60E1AA615612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3936708-F1CE-4CA9-87EC-60E1AA615612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3936708-F1CE-4CA9-87EC-60E1AA615612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3936708-F1CE-4CA9-87EC-60E1AA615612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3936708-F1CE-4CA9-87EC-60E1AA615612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A064260B-E8EE-4BE3-BF70-20D1F7CDAADD}
+	EndGlobalSection
+EndGlobal

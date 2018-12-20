@@ -1,0 +1,12 @@
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\bin\Debug\File Manager Winforms.exe.config
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\bin\Debug\File Manager Winforms.exe
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\bin\Debug\File Manager Winforms.pdb
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File Manager Winforms.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File_Manager_Winforms.frm_Importar_Arquivo.resources
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File_Manager_Winforms.Properties.Resources.resources
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File Manager Winforms.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File Manager Winforms.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File Manager Winforms.exe
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File Manager Winforms.pdb
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File_Manager_Winforms._02___Importar.frm_Abrir_Arquivo.resources
+C:\Users\gabri\source\repos\File Manager Winforms\File Manager Winforms\obj\Debug\File_Manager_Winforms._03___Paste_File.frm_Paste_File.resources
